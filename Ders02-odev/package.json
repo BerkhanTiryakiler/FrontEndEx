@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass": "^1.80.6"
+  },
+  "name": "ders02-odev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
